@@ -1,0 +1,1 @@
+﻿Start-process -FilePath "C:\Program Files\Zoom\bin\Zoom.exe" -ArgumentList "/S" -Wait
